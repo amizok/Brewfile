@@ -5,6 +5,7 @@
 tap caskroom/cask
 brew brew-cask
 cask atom
+cask sequel-pro
 cask xquartz
 
 ## rcmdnk/file
