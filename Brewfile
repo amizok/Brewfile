@@ -8,6 +8,10 @@ cask atom
 cask sequel-pro
 cask xquartz
 
+## josegonzalez/php
+tap josegonzalez/php
+brew phplint
+
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
@@ -23,21 +27,27 @@ brew ant
 brew autoconf
 brew automake
 brew cairo
+brew cloog
 brew czmq
 brew fontconfig
 brew fontforge
 brew freetype
+brew gcc
 brew gettext
 brew git
 brew glib
+brew gmp
 brew gobject-introspection
 brew harfbuzz
 brew icu4c
+brew isl
 brew jpeg
 brew libffi
+brew libmpc
 brew libpng
 brew libtiff
 brew libtool
+brew mpfr
 brew pango
 brew pixman
 brew pkg-config
